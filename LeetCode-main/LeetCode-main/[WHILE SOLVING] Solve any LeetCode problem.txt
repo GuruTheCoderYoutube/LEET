@@ -27,9 +27,8 @@ o Assess Space and Time Complexity:
 o Explore Optimization Techniques:
 	§ Identify opportunities for optimization to improve space or time efficiency.
 	§ Implement techniques to minimize unnecessary space usage and enhance time efficiency where possible.
-	 
+o Draw figures, if your mental space isn't large enough.	 
 o Comment your steps in code.
-o Draw figures, if your mental space isn't large enough.
 
 
 3. CARRYING OUT THE PLAN:
@@ -43,19 +42,10 @@ o Analyze Performance:
 
 4. LOOKING BACK:
 o Evaluate Solution Efficiency:
-	§ Assess the space and time complexity of the implemented solution against desired performance criteria. [O(n) and O(n), space and time)
-	§ Reflect on the effectiveness of the chosen algorithms and data structures in achieving efficiency goals.
+	§ Assess the space and time complexity of the implemented solution against desired performance criteria. [O(2n)=O(n) time and space complexity]
+	§ Reflect on the effectiveness of the chosen algorithms and data structures in achieving efficiency goals [as efficient as possible]
 o Identify Optimization Opportunities:
 	§ Consider areas for further optimization to enhance space or time efficiency, if necessary.
 	§ Reflect on lessons learned from the problem-solving process, including insights into complexity analysis.
-
-
-5. GENERALIZING:
-o Apply Knowledge to Other Scenarios:
-	§ Use insights gained from space and time complexity analysis to solve similar problems.
-	§ Practice analyzing the complexity of solutions to develop a deeper understanding and intuition.
-o Explore Additional Resources:
-	§ Continue learning about algorithms and data structures through additional resources and tutorials.
-	§ Build proficiency in complexity analysis by applying concepts to various problem-solving scenarios.
 
 
