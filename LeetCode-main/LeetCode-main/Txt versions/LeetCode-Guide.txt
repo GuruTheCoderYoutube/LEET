@@ -10,7 +10,7 @@ o Watch NEETCODE's video on the problem.
 o If you don't understand the video solution: watch someone else's, or ask some AI the specific questions you have.
 * Write the solution to the problem in some editor
 o Write the solution in your notebook
-o You're done with the problem. You may safely begin the next. ??
+o You're done with the problem. You may safely begin the next. 👍
 * If you cannot solve it, look at the solution again and write it out without looking.
 o If you still cannot solve it, write down main(not too broad) steps and write code looking at the steps.
 * If you still cannot solve it, go to sleep, we'll get 'em next time, use caffeine and destroy the problem tomorrow(or later today if it's still early). You can take pages of notes for this one.

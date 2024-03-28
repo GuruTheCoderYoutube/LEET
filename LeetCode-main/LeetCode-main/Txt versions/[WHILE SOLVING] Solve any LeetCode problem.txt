@@ -20,7 +20,7 @@ o Assess Space and Time Complexity:
 o Explore Optimization Techniques:
 § Identify opportunities for optimization to improve space or time efficiency.
 § Implement techniques to minimize unnecessary space usage and enhance time efficiency where possible.
-
+o Write out your steps as comments.
 3. Carrying Out the Plan:
 o Implement the Solution:
 § Write code to implement the chosen solution using the selected algorithms and data structures.
