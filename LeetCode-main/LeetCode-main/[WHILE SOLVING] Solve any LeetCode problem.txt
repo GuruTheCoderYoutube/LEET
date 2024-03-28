@@ -29,6 +29,7 @@ o Explore Optimization Techniques:
 	§ Implement techniques to minimize unnecessary space usage and enhance time efficiency where possible.
 	 
 o Comment your steps in code.
+o Draw figures, if your mental space isn't large enough.
 
 
 3. CARRYING OUT THE PLAN:
