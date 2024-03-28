@@ -1,0 +1,11 @@
+1. Identify Variables: Locate all the variables used in the code.
+2. Divide the Code: Break the code into smaller sections, such as functions, loops, and conditionals.
+3. Follow Input and Output Flow: Carefully track how the initial input data is processed and transformed into the final output data. 
+4. Analyze Control Flow: Examine and determine the precise sequence in which different parts of the code are executed.
+5. Find Conditional Statements: Identify if, else, or switch statements, and analyze how they influence the program's decision-making process.
+6. Identify Loops: Recognize loops and discern their behavior, specifically how they iterate through the code.
+7. Search for Algorithms: Look for common algorithms or patterns used within the code.
+8. Experiment with Code: Test the code with various inputs to observe how it behaves under different scenarios.
+9. Comment: Comment on top of each substantial "block", saying what that block does.
+10. [Optional] Review Online Resources: If necessary, search for explanations or discussions online to gain additional insights.
+11. Recreate the Code: Strengthen your understanding by attempting to write the code from scratch based on your comprehension.

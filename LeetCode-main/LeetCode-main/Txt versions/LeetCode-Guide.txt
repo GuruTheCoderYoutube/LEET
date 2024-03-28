@@ -1,0 +1,16 @@
+* Learn the Data Structures and Algorithms from the course.
+* Head to NEETCODE and solve problems section-by-section, in order.
+* Before beginning a section or even a problem, learn the algorithms/data structures and techniques involved(see the tags the question has) from the course some other resource.
+* Start solving a problem, following the problem-solving guide.
+* If you solve it, read and understand the solution by NEETCODE, then watch his video on the problem. 
+o If you cannot understand it, follow the code reading guide. 
+o If there is a specialized algorithm involved, watch videos on the algorithm until you get it.
+o Watch NEETCODE's video on the problem.
+* If you cannot solve it, watch NEETCODE's video on the problem. 
+o If you don't understand the video solution: watch someone else's, or ask some AI the specific questions you have.
+* Write the solution to the problem in some editor
+o Write the solution in your notebook
+o You're done with the problem. You may safely begin the next. ??
+* If you cannot solve it, look at the solution again and write it out without looking.
+o If you still cannot solve it, write down main(not too broad) steps and write code looking at the steps.
+* If you still cannot solve it, go to sleep, we'll get 'em next time, use caffeine and destroy the problem tomorrow(or later today if it's still early). You can take pages of notes for this one.
