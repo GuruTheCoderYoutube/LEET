@@ -6,4 +6,4 @@ def containsduplicate(array):
         hashset.add(num)
     return False
 
-#hashmap/hashtable, array
+#hashmap/hashtable, sorting, array
