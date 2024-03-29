@@ -1,7 +1,7 @@
 * Learn the Data Structures and Algorithms from the course.
 * Head to NEETCODE and solve problems section-by-section, in order.
 * Before beginning a section or even a problem, learn the algorithms/data structures and techniques involved(see the tags the question has) from the course some other resource.
-* Start solving a problem, following the problem-solving guide.
+* Start solving a problem(using 20 minutes for an easy problem, 30 mins for a medium, 40 for a hard) following the problem-solving guide.
 * If you solve it, read and understand the solution by NEETCODE, then watch his video on the problem. 
 o If you cannot understand it, follow the code reading guide. 
 o If there is a specialized algorithm involved, watch videos on the algorithm until you get it.
