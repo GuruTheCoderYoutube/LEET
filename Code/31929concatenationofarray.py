@@ -3,4 +3,4 @@ def concatenationOfArray(array):
     for i in range(len(array)):
         res[i] = res[i+len(array)] = array[i]
     return res
-# Array, Simulation
+# Array, Simulation, Array manipulation
